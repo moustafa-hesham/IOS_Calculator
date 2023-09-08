@@ -28,7 +28,7 @@ class CustomCalcButton extends StatelessWidget {
           padding: const EdgeInsets.only(left: 20),
           child: Text(
             digit,
-            style: TextStyle(
+            style: const TextStyle(
               fontSize: 35,
               color: Colors.white,
             ),
